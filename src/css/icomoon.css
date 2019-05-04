@@ -1,0 +1,128 @@
+@font-face {
+  font-family: 'icomoon';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/icomoon.eot?ww5zwn');
+  src:
+    url('../fonts/icomoon.eot?ww5zwn#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?ww5zwn') format('truetype'),
+    url('../fonts/icomoon.woff?ww5zwn') format('woff'),
+    url('../fonts/icomoon.svg?ww5zwn#icomoon') format('svg');
+}
+
+[class^="icon-"],
+ [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-transform: none;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-apartment-building .path1::before {
+  color: rgb(0, 0, 0);
+  content: "\e900";
+  opacity: 0.25;
+}
+
+.icon-apartment-building .path2::before {
+  margin-left: -1.15234375em;
+  color: rgb(97, 66, 97);
+  content: "\e901";
+}
+
+.icon-apartment-building .path3::before {
+  margin-left: -1.15234375em;
+  color: rgb(255, 255, 255);
+  content: "\e902";
+}
+
+.icon-banknote::before {
+  content: "\e903";
+}
+
+.icon-bulb::before {
+  content: "\e904";
+}
+
+.icon-cup::before {
+  color: #fff;
+  content: "\e905";
+}
+
+.icon-film::before {
+  color: #fff;
+  content: "\e906";
+}
+
+.icon-foto::before {
+  color: #fff;
+  content: "\e907";
+}
+
+.icon-handset::before {
+  color: #f7f7f7;
+  content: "\e908";
+}
+
+.icon-lab::before {
+  color: #fff;
+  content: "\e909";
+}
+
+.icon-like::before {
+  color: #fff;
+  content: "\e90a";
+}
+
+.icon-mail::before {
+  color: #808080;
+  content: "\e90b";
+}
+
+.icon-params::before {
+  content: "\e90c";
+}
+
+.icon-pen::before {
+  color: #808080;
+  content: "\e90d";
+}
+
+.icon-slideshow::before {
+  color: #fff;
+  content: "\e90e";
+}
+
+.icon-stack::before {
+  color: #f39c12;
+  content: "\e90f";
+}
+
+.icon-star::before {
+  content: "\e910";
+}
+
+.icon-user::before {
+  color: #fff;
+  content: "\e911";
+}
+
+.icon-user2::before {
+  color: #fff;
+  content: "\e912";
+}
+
+.icon-world::before {
+  content: "\e913";
+}
+
+.icon-database::before {
+  content: "\e964";
+}
